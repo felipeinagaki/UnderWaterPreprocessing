@@ -41,7 +41,7 @@ scipy==1.4.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow @ file:///tensorflow-2.8.0-cp37-cp37m-linux_x86_64.whl
+tensorflow==2.8.0
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.8.0
 tensorflow-gcs-config==2.8.0
@@ -49,10 +49,10 @@ tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.24.0
 tensorflow-metadata==1.6.0
 tensorflow-probability==0.15.0
-torch @ https://download.pytorch.org/whl/cu111/torch-1.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu111/torchaudio-0.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
+torch==1.10.0+cu111
+torchvision==0.11.1+cu111
+torchaudio==0.10.0+cu111
 torchsummary==1.5.1
 torchtext==0.11.0
-torchvision @ https://download.pytorch.org/whl/cu111/torchvision-0.11.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
 tornado==5.1.1
 tqdm==4.62.3
